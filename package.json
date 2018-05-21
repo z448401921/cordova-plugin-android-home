@@ -1,3 +1,15 @@
 {
-  "version": "1.0.0"
+  "name": "com.android.back.home",
+  "version": "1.0.1",
+  "description": "com.android.back.home",
+  "cordova": {
+    "id": "android-home",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z448401921/cordova-plugin-android-home"
+  }
 }
